@@ -12,7 +12,6 @@ This dashboard explores freelancer income and performance data across multiple p
 
 ## 📁 Data Source
 Dataset: Freelancer Earnings and Job Trends (Kaggle)
-> Add the exact dataset link here once you have it handy.
 
 ## 📈 Key Insights
 - Total freelancer income analyzed: **$9.78M+**
@@ -22,9 +21,6 @@ Dataset: Freelancer Earnings and Job Trends (Kaggle)
 - Earnings are fairly distributed across platforms, with Freelancer.com and PeoplePerHour showing slightly lower shares
 - Client regions (USA, Europe, Asia, Canada, UK, Australia) show consistent hourly rate patterns across payment methods
 
-
-
-> Add your dashboard image to the repo and update this path.
 
 ## 📌 Dashboard Features
 - KPI cards: Average Hourly Rate, Total Income, Job Success Rate
